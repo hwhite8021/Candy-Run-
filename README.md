@@ -6,5 +6,6 @@
 
 <br>
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> pyGame Weel File </a><br>
-<a herf="https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and PyGame</a><br>
+<a herf="https://youtu.be/_GikMdhAhv0"> Installing Python 3.6 and PyGame</a>
+
 
